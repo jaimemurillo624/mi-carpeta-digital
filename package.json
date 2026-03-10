@@ -1,0 +1,20 @@
+{
+  "name": "my-page",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.4",
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "bootstrap": "^5.3.8",
+    "tsparticles": "^3.9.1"
+  }
+}
